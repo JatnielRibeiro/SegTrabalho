@@ -1,0 +1,12 @@
+MARFIM TREINAMENTO E ASSESSORIA — SITE INSTITUCIONAL
+
+Abra o arquivo index.html em um navegador para visualizar o site.
+
+Identidade visual: foram preservados o logotipo, o nome e o mascote presentes na imagem original enviada pela empresa. Os arquivos logo-marfim.jpg, mascote-marfim.jpg e arte-original-marfim.jpg fazem parte dos recursos do site.
+
+Contato configurado:
+WhatsApp: +55 (66) 99668-8334
+E-mail: luiscardoso@marfimassessoria.com.br
+Localização: Sinop - MT
+
+O formulário prepara a mensagem e abre o WhatsApp. Antes da publicação definitiva, revisar os textos técnicos, confirmar responsáveis e habilitações profissionais, inserir CNPJ/dados legais se desejado e configurar hospedagem, domínio, política de privacidade e consentimento LGPD.
